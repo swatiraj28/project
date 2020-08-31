@@ -16,6 +16,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+//code here
+
 public class complain  extends JFrame {
 	
 	private JLabel title,nameLabel,regnoLabel,roomLabel2,f_nameLabel,compLabel;
